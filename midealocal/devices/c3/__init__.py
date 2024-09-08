@@ -93,6 +93,7 @@ class MideaC3Device(MideaDevice):
                 DeviceAttributes.status_dhw: None,
                 DeviceAttributes.status_tbh: None,
                 DeviceAttributes.status_ibh: None,
+                DeviceAttributes.status_silent_mode: None,
                 DeviceAttributes.total_produced_energy: None,
                 DeviceAttributes.outdoor_temperature: None,
                 DeviceAttributes.error_code: 0,
