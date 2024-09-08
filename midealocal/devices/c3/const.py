@@ -39,6 +39,7 @@ class DeviceAttributes(StrEnum):
     status_dhw = "status_dhw"
     status_tbh = "status_tbh"
     status_ibh = "status_ibh"
+    status_silent_mode = "status_silent_mode"
     total_energy_consumption = "total_energy_consumption"
     total_produced_energy = "total_produced_energy"
     outdoor_temperature = "outdoor_temperature"
